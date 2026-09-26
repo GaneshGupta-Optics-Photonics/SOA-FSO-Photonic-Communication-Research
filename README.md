@@ -1,5 +1,49 @@
-# SOA-FSO-Photonic-Optic-Communication-Research
-Research repository exploring computational modelling and optimization of semiconductor optical amplifiers (SOAs) for free-space optical (FSO) communication systems. Focus areas include carrier dynamics, gain saturation, Python based simulations, Signal Processing Fourier analysis (DFT), Machine learning-assisted optimization, and techniques for  photonic networks.
+## Professional Profile
+
+Ganesh Gupta is an international Physics & Mathematics educator and researcher working in photonics, optical communication systems, and computational modelling.
+
+With over decades of experience in Physics, Mathematics, and STEM education, he has worked with international curricula and diverse academic environments, combining scientific teaching expertise with emerging research in semiconductor photonics and optical communication technologies.
+
+### Professional Experience
+
+- Head of Department – Mathematics, Physics & STEM  
+  Thompson International School, Tashkent, Uzbekistan
+- Head of Department – Mathematics, Physics
+  Educatalyst Academy, Mumbai, India
+- Upper Secondary & AS/A Level Physics & Mathematics Teacher
+  MET Rishikul Vidyalaya, Mumbai, India
+- IGCSE & IB DP Mathematics & Physics Teacher
+  Goldcrest International School, Mumbai, India
+
+- International Physics & Mathematics Educator with experience in:
+  - IB Diploma Programme 
+  - Cambridge IGCSE / A-Level 
+  - International STEM education
+  - Laboratory-based scientific investigation
+  - Computational and modelling approaches in education
+
+### Research Interests
+
+- Semiconductor Optical Amplifiers (SOAs)
+- Free-Space Optical Communication (FSO)
+- Photonic Communication Systems
+- Carrier Dynamics and Gain Saturation
+- Numerical Modelling and Simulation
+- Python-based Computational Analysis
+- Signal Processing and Fourier Analysis
+- Machine Learning-assisted Optimization
+- UAV Optical Communication Networks
+
+### Academic & Professional Links
+
+- Personal Website:
+  https://ganeshgupta.cv/
+
+- LinkedIn:
+  https://linkedin.com/in/gupta-ganesh-4a7b53257
+
+- ORCID:
+  https://orcid.org/0009-0005-4750-311X
 # SOA-FSO-Photonic-Communication-Research
 
 ## Research Overview
