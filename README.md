@@ -30,6 +30,10 @@ With over decades of experience in Physics, Mathematics, and STEM education, he 
 - Carrier Dynamics and Gain Saturation
 - Numerical Modelling and Simulation
 - Python-based Computational Analysis
+- Carrier-dynamics-based analysis of SOA and EDFA amplification
+- Analytical turbulence crossover criterion
+- Gamma-Gamma atmospheric turbulence modelling
+- BER and scintillation performance evaluation
 - Signal Processing and Fourier Analysis
 - Machine Learning-assisted Optimization
 - UAV Optical Communication Networks
