@@ -4,11 +4,8 @@
 
 The crossover condition occurs when the scintillation suppression benefit of SOA compensates for the noise figure penalty compared with EDFA.
 
-\[
-\ΔSNR_{scintillation}
-=
-\ΔSNR_{NF}
-\]
+\[ΔSNR_{scintillation} = ΔSNR_{NF}]
+
 The turbulence-induced improvement is approximated as:
 
 \[\ΔSNR_{scintillation}=kC_n^2\]
