@@ -78,8 +78,17 @@ where:
 
 The crossover turbulence strength is therefore:
 
-\[C_{n,crossover}^{2}
-=\frac{\Delta SNR_{NF}}{\eta}\]
+\[
+C_{n,crossover}^{2}
+=
+\frac{\Delta SNR_{NF}}{\eta}
+\]
+
+\[
+C_{n,crossover}^{2}
+=
+\frac{\Delta SNR_{NF}}{\eta}
+\]
 
 where \(\eta\) is the turbulence sensitivity coefficient obtained from the Gamma-Gamma atmospheric turbulence model and numerical simulations.
 
