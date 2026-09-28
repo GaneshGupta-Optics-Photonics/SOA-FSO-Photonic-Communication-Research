@@ -33,7 +33,7 @@ Therefore, EDFA provides lower power penalty and better link performance under w
 
 The noise figure advantage of EDFA can be expressed as:
 
-\[ΔSNR_{NF}=SNR_{EDFA}-SNR_{SOA}]
+\[ΔSNR_{NF} = SNR_{EDFA}-SNR_{SOA}]
 
 where the difference represents the noise penalty introduced by SOA amplification.
 
@@ -49,11 +49,11 @@ the dominant limitation becomes scintillation-induced signal degradation.
 
 SOAs provide superior dynamic response because of their short carrier recovery time:
 
-\[\tau_c \approx 100 ps]
+\[t_c approx 100 ps]
 
 compared with the much slower erbium population recovery process in EDFAs:
 
-\[tau_{Er}\approx 10 ms]
+\[t_{Er} approx 10 ms]
 
 The fast carrier dynamics of SOA enable:
 
