@@ -1,1 +1,7 @@
+## Crossover Validation Figure
 
+The numerical simulation confirms the analytical crossover condition.
+
+![SOA-EDFA crossover validation](Figures/crossover_validation.png)
+
+The zero-crossing point represents the turbulence strength where SOA scintillation suppression compensates for the EDFA noise figure advantage.
