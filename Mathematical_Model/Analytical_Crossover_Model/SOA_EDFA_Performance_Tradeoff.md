@@ -33,7 +33,7 @@ Therefore, EDFA provides lower power penalty and better link performance under w
 
 The noise figure advantage of EDFA can be expressed as:
 
-\[Delta SNR_{NF}=SNR_{EDFA}-SNR_{SOA}]
+\[ΔSNR_{NF}=SNR_{EDFA}-SNR_{SOA}]
 
 where the difference represents the noise penalty introduced by SOA amplification.
 
@@ -69,26 +69,17 @@ Therefore, SOA performance improves relative to EDFA as turbulence strength incr
 
 The transition between EDFA and SOA dominated performance occurs when:
 
-\[\Delta SNR_{scintillation} =\Delta SNR_{NF}\]
+\[ΔSNR_{scintillation} = ΔSNR_{NF}]
 
 where:
 
-- \(\Delta SNR_{scintillation}\) represents the improvement obtained from SOA scintillation suppression.
-- \(\Delta SNR_{NF}\) represents the noise figure advantage of EDFA.
+- \(ΔSNR_{scintillation}) represents the improvement obtained from SOA scintillation suppression.
+- \(ΔSNR_{NF}) represents the noise figure advantage of EDFA.
 
 The crossover turbulence strength is therefore:
 
-\[
-C_{n,crossover}^{2}
-=
-\frac{\Delta SNR_{NF}}{\eta}
-\]
 
-\[
-C_{n,crossover}^{2}
-=
-\frac{\Delta SNR_{NF}}{\eta}
-\]
+\[C_{n,crossover}^{2} = {ΔSNR_{NF}}{\eta}]
 
 where \(\eta\) is the turbulence sensitivity coefficient obtained from the Gamma-Gamma atmospheric turbulence model and numerical simulations.
 
