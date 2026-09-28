@@ -1,3 +1,12 @@
-Crossover_Derivation.md
-SOA_EDFA_Tradeoff.md
-Crossover_Validation.md
+Analytical_Derivation.md
+SOA_EDFA_Performance_Tradeoff.md
+Numerical_Validation.md
+Research_Contribution.md
+# Research Contribution
+
+This model provides:
+
+1. Carrier-dynamics based SOA analysis
+2. Analytical SOA-EDFA crossover criterion
+3. Turbulence-dependent amplifier selection framework
+4. Numerical validation using Gamma-Gamma FSO channel model
