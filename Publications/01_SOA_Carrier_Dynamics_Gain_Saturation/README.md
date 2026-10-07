@@ -1,4 +1,4 @@
-# 01. Semiconductor Optical Amplifiers: Carrier Dynamics, Gain Saturation, and Performance Limits in Advanced Photonic Communication Systems
+# Semiconductor Optical Amplifiers: Carrier Dynamics, Gain Saturation, and Performance Limits in Advanced Photonic Communication Systems
 
 ## Publication
 
