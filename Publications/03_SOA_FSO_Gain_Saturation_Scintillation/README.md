@@ -12,7 +12,7 @@ Ganesh Gupta; Prof. Ahmed Yusupov
 Journal Article
 
 **Journal:**  
-Science and Innovation — International Scientific Journal
+Science and Innovation - International Scientific Journal
 
 **Volume:**  
 5
