@@ -11,11 +11,15 @@ amplifiers, photonics, and optical communications.
 
 **Author:** Ganesh Gupta; Prof. Ahmed Yusupov
 
+**DOI:**  10.5281/zenodo.22931967
+
 This work reviews semiconductor optical amplifiers with emphasis on
 carrier dynamics, gain saturation, gain recovery, and their role in
 advanced photonic communication systems.
 
 [View Publication](./01_SOA_Carrier_Dynamics_Gain_Saturation/)
+
+[DOI](https://doi.org/10.5281/zenodo.22931967)
 
 ---
 
@@ -25,11 +29,15 @@ advanced photonic communication systems.
 
 **Authors:** Ganesh Gupta; Prof. Ahmed Yusupov
 
+**DOI:**  10.5281/zenodo.23022832
+
 This review examines SOA material systems, device physics, gain
 saturation, carrier dynamics, and integration challenges for
 next-generation optical communication.
 
 [View Publication](./02_SOA_Next_Generation_Optical_Communication_Review/)
+
+[DOI](https://doi.org/10.5281/zenodo.23022832)
 
 ---
 
