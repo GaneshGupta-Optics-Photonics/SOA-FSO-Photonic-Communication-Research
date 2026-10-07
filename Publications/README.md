@@ -1,9 +1,9 @@
 # Publications
 
-## Semiconductor Optical Amplifiers: Carrier Dynamics, Gain Saturation, and Performance Limits in Advanced Photonic Communication Systems
+## 01. Semiconductor Optical Amplifiers: Carrier Dynamics, Gain Saturation, and Performance Limits in Advanced Photonic Communication Systems
 
 **Author:**  
-Ganesh Gupta
+Ganesh Gupta & Prof. AHmed Yusupov
 
 **Publication Type:**  
 Conference Paper
