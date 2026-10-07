@@ -1,30 +1,53 @@
 # Publications
 
+This section contains my published research in semiconductor optical
+amplifiers, photonics, and optical communications.
+
+---
+
 ## 01. Semiconductor Optical Amplifiers: Carrier Dynamics, Gain Saturation, and Performance Limits in Advanced Photonic Communication Systems
 
-**Author:**  
-Ganesh Gupta & Prof. AHmed Yusupov
+**Type:** Conference Paper
 
-**Publication Type:**  
-Conference Paper
+**Author:** Ganesh Gupta; Prof. Ahmed Yusupov
 
-**Conference:**  
-ZDIFT - ZAMONAVIY DUNYODA ILM-FAN VA TEXNOLOGIYA (SCIENCE AND TECHNOLOGY IN THE MODERN WORLD Scientific-Practical Conference)
+This work reviews semiconductor optical amplifiers with emphasis on
+carrier dynamics, gain saturation, gain recovery, and their role in
+advanced photonic communication systems.
 
-**Volume:**  
-5
+[View Publication](./01_SOA_Carrier_Dynamics_Gain_Saturation/)
 
-**Issue:**  
-26
+---
 
-**Year:**  
-2026
+## 02. Semiconductor Optical Amplifiers for Next-Generation Optical Communication: A Review of Material Systems, Device Physics, and Integration Challenges
 
-**DOI:**  
-https://doi.org/10.5281/zenodo.22931967
+**Type:** Conference Review Article
 
-## Abstract
+**Authors:** Ganesh Gupta; Prof. Ahmed Yusupov
 
-This work reviews semiconductor optical amplifiers (SOAs), focusing on carrier dynamics, gain saturation effects, gain recovery behaviour, and their role in advanced photonic communication systems.
+This review examines SOA material systems, device physics, gain
+saturation, carrier dynamics, and integration challenges for
+next-generation optical communication.
 
-The study highlights computational modelling approaches and performance considerations for high-speed optical communication networks.
+[View Publication](./02_SOA_Next_Generation_Optical_Communication_Review/)
+
+---
+
+## 03. Gain-Saturated Semiconductor Optical Amplifiers for Free-Space Optical Communication: Performance Limitations and Numerical Analysis of Scintillation Mitigation
+
+**Type:** Journal Article
+
+**Authors:** Ganesh Gupta; Prof. Ahmed Yusupov
+
+**Journal:** Science and Innovation — International Scientific Journal
+
+**Volume:** 5, Issue 9, September 2026
+
+**DOI:** 10.67620/sai.59a0005
+
+This research investigates gain-saturated SOAs for mitigating
+atmospheric scintillation in free-space optical communication systems.
+
+[View Publication](./03_SOA_FSO_Gain_Saturation_Scintillation/)
+
+[DOI](https://doi.org/10.67620/sai.59a0005)
