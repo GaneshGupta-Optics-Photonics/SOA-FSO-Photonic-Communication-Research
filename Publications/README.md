@@ -47,7 +47,7 @@ next-generation optical communication.
 
 **Authors:** Ganesh Gupta; Prof. Ahmed Yusupov
 
-**Journal:** Science and Innovation — International Scientific Journal
+**Journal:** International Scientific Journal - Science and Innovation
 
 **Volume:** 5, Issue 9, September 2026
 
@@ -59,3 +59,26 @@ atmospheric scintillation in free-space optical communication systems.
 [View Publication](./03_SOA_FSO_Gain_Saturation_Scintillation/)
 
 [DOI](https://doi.org/10.67620/sai.59a0005)
+
+---
+
+## 04. Parameter Optimization of Gain-Saturated Semiconductor Optical Amplifiers for Scintillation Suppression in Free-Space Optical Links
+
+**Type:** Journal Article
+
+**Authors:** Ganesh Gupta; Prof. Ahmed Yusupov
+
+**Journal:** Scientific and Technical Journal "Mechanical Engineering" - Andijan State Technical Institute
+
+**Volume:** 1, Issue 4, October 2026
+
+**DOI:** 10.67620/sai.59a0005
+
+This research investigates gain-saturated SOAs for mitigating
+atmospheric scintillation in free-space optical communication systems.
+
+[View Publication](./03_SOA_FSO_Gain_Saturation_Scintillation/)
+
+[DOI](https://journal.astiedu.uz/index.php/mashinasozlik/article/view/217)
+
+---
