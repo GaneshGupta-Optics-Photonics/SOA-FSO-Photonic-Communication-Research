@@ -12,7 +12,7 @@ Ganesh Gupta; Prof. Ahmed Yusupov
 Journal Article
 
 **Journal:**  
-Science and Innovation - International Scientific Journal
+International Scientific Journal - Science and Innovation
 
 **Volume:**  
 5
@@ -27,7 +27,7 @@ September 2026
 10.67620/sai.59a0005
 
 **DOI Link:**  
-https://doi.org/10.67620/sai.59a0005
+(https://zenodo.org/records/23209362)
 
 ## Research Areas
 
