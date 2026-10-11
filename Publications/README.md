@@ -77,7 +77,7 @@ atmospheric scintillation in free-space optical communication systems.
 This research investigates gain-saturated SOAs for mitigating
 atmospheric scintillation in free-space optical communication systems.
 
-[View Publication](./03_SOA_FSO_Gain_Saturation_Scintillation/)
+[View Publication](./04_SOA_FSO_Parameter_Optimization/)
 
 [DOI](https://journal.astiedu.uz/index.php/mashinasozlik/article/view/217)
 
