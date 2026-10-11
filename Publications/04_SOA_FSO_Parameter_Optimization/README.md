@@ -6,7 +6,7 @@
 
 **Journal:** Scientific and Technical Journal "Mechanical Engineering"
 
-**Issue:** No. 4, October 2026
+**Issue:** Vol. 1, Issue No. 4, October 2026
 
 **Pages:** 26–33
 
