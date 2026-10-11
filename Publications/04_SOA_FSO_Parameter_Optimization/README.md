@@ -1,6 +1,6 @@
-# 04. Parameter Optimization of Gain-Saturated Semiconductor Optical Amplifiers for Scintillation Suppression in Free-Space Optical Links
+# Parameter Optimization of Gain-Saturated Semiconductor Optical Amplifiers for Scintillation Suppression in Free-Space Optical Links
 
-**Author:** Ganesh Gupta; Ahmed Yusupov
+**Author:** Ganesh Gupta; Prof. Ahmed Yusupov
 
 **Publication Type:** Journal Article
 
@@ -18,7 +18,7 @@
 
 **ORCID:** 0009-0005-4750-311X
 
-**DOI:** Not assigned/identified in the published article
+**DOI:** (https://journal.astiedu.uz/index.php/mashinasozlik/article/view/217)
 
 ## Abstract
 
