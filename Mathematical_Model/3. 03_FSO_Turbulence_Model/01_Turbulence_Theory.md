@@ -13,7 +13,7 @@ The turbulence strength is characterized by the refractive index structure param
 $(C_n^2)$
 where:
 
-- $ C_n^2 $ represents the strength of atmospheric turbulence.
+- $C_n^2$ represents the strength of atmospheric turbulence.
 - Higher values indicate stronger turbulence.
 
 ---
@@ -43,13 +43,13 @@ The strength of turbulence experienced by an optical wave depends on:
 
 The optical wave number is:
 
-\[
+$\[
 k=\frac{2\pi}{\lambda}
-\]
+\]$
 
 where:
 
-- \(\lambda\) is the optical wavelength.
+- $\(\lambda\)$ is the optical wavelength.
 
 ---
 
@@ -57,42 +57,42 @@ where:
 
 The Rytov variance is used to quantify turbulence effects:
 
-\[
+$\[
 \sigma_R^2=
 1.23 C_n^2 k^{7/6}L^{11/6}
-\]
+\]$
 
 where:
 
-- \(L\) is the propagation distance.
-- \(k\) is the optical wave number.
+- $\(L\)$ is the propagation distance.
+- $\(k\)$ is the optical wave number.
 
 The turbulence regime is classified as:
 
 | Rytov variance | Turbulence condition |
 |---|---|
-| \(\sigma_R^2 < 1\) | Weak turbulence |
-| \(\sigma_R^2 \approx 1\) | Moderate turbulence |
-| \(\sigma_R^2 > 1\) | Strong turbulence |
+| $\(\sigma_R^2 < 1\)$ | Weak turbulence |
+| $\(\sigma_R^2 \approx 1\)$ | Moderate turbulence |
+| $\(\sigma_R^2 > 1\)$ | Strong turbulence |
 
 ---
 
 # Role in Present Work
 
-In this research, the turbulence strength is varied through \(C_n^2\).
+In this research, the turbulence strength is varied through $\(C_n^2\)$.
 
 The Gamma-Gamma model is used to generate irradiance fluctuations and evaluate the influence of atmospheric turbulence on SOA and EDFA amplified FSO links.
 
 The turbulence model provides the scintillation contribution:
 
-\[
+$\[
 \Delta SNR_{scint}
-\]
+\]$
 
 which is compared against the amplifier noise penalty:
 
-\[
+$\[
 \Delta SNR_{NF}
-\]
+\]$
 
 to determine the SOA–EDFA crossover condition.
