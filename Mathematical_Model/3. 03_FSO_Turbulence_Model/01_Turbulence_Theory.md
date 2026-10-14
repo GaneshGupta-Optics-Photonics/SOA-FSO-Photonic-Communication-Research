@@ -10,8 +10,7 @@ These intensity fluctuations are known as optical scintillation.
 
 The turbulence strength is characterized by the refractive index structure parameter:
 
-$ \(
-C_n^2)\ $
+$ \(C_n^2)\ $
 where:
 
 - $ C_n^2 $ represents the strength of atmospheric turbulence.
@@ -23,14 +22,14 @@ where:
 
 The refractive index fluctuation is commonly represented using the Kolmogorov turbulence model:
 
-\[
+$\[
 \Phi_n(\kappa)=0.033C_n^2\kappa^{-11/3}
-\]
+\]$
 
 where:
 
-- \(\Phi_n(\kappa)\) is the refractive index power spectrum.
-- \(\kappa\) is the spatial frequency.
+- $\(\Phi_n(\kappa)\)$ is the refractive index power spectrum.
+- $\(\kappa\)$ is the spatial frequency.
 
 ---
 
