@@ -63,9 +63,9 @@ The SOA nonlinear carrier dynamics can partially compensate for turbulence-induc
 
 The scintillation suppression benefit is represented as:
 
-\[
+$\[
 \Delta SNR_{scint}
-\]
+\]$
 
 which contributes to the SOA–EDFA crossover analysis.
 
