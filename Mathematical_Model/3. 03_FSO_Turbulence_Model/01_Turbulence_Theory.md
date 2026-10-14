@@ -10,7 +10,7 @@ These intensity fluctuations are known as optical scintillation.
 
 The turbulence strength is characterized by the refractive index structure parameter:
 
-$\(C_n^2)\$
+$\(C_n^2)$
 where:
 
 - $C_n^2$ represents the strength of atmospheric turbulence.
